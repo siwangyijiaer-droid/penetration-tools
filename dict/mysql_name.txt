@@ -1,0 +1,8 @@
+admin
+mysql
+mysqladmin
+mysqld
+root
+server
+test
+websrvc
